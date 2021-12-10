@@ -1,6 +1,7 @@
 # Knight-Game
 
 Functions:
+
 player controller(left-right movement)
 jump(hold to jump higher)
 gravity
